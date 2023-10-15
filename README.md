@@ -1,5 +1,5 @@
 # Abdominal-Trauma-Detection-in-Images
-
+https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
 # Description
 
 Goal of the Competition
